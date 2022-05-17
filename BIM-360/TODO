@@ -1,0 +1,14 @@
+
+Todo:
+  ☐ Install Express, cookie-session, multer, nodemon and forge-apis
+  ☐ Create Route folder
+  ☐ Setup launch.json
+  ☐ start server
+  ☐ Create config.js
+  ☐ import config use cookie-session in server.js
+  
+
+
+
+
+

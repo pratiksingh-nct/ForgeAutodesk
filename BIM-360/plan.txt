@@ -1,0 +1,20 @@
+1. NPM init
+2. Create App ---> Callback URL--> http://localhost:3000/api/forge/oauth/callback
+3. Folder Structure:
+   server.js, package.json
+   www-> index.htmml, upload.html, viewer.html
+4. Install express, Axios
+5. Create server
+6. Install nodemon, ejs
+7. Setup route folder view folder and implement home route
+
+8. Install dotenv and config in server.js
+
+9. Complete two legged authentication
+   and after acccessing token redirect to bucket/Create
+
+
+10. Get the buckey key and redirect to bucket detail then render the upload page 
+11. Install multer
+
+
