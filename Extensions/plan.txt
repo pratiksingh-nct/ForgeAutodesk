@@ -1,0 +1,13 @@
+Create a server
+Install multer, express, forge-apis
+Create 2 folders Routes & public
+Setup Launch.json
+Create server.js and start the server
+Create config.js and setup credentials and scope
+Create auth.js and setup /token route for getting the token
+Create a common folder and inside it create oauth.js and make three functions getClient, getPublicToken and getInternalToken
+
+Check /token is working on not and you are getting token on not
+
+Now OSS 
+3 features: Create Bucket, bucket listing and upload files 
